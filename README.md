@@ -1,3 +1,13 @@
+---
+lab:
+    title: TechLab: From zero to deployed on Azure with AI agents
+    description:
+    level: 300
+    duration: 120 minutes
+    islab: true
+    primarytopics:
+---
+
 ## Welcome to Your Lab Environment
 >[!Note] ** Text formatted as an +++example+++ represents type text. Clicking on this text will automatically insert it to prevent any typing errors.
 
